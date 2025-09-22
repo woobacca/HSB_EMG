@@ -1,6 +1,7 @@
 ## Installation
 ### ESP32 in ArduinoIDE
 1. Follow the install guide from https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html
+2. Install PubSubClient3 library with Arduino Library Manager
 ### Mosquitto MQTT Broker
 1. Download Mosquitto MQTT for your operating system from https://mosquitto.org/download/
 2. Install Mosquitto MQTT and make sure that Mosquitto runs as a service (Windows install: check box service)
